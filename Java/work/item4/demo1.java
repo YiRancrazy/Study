@@ -30,5 +30,6 @@ public class demo1 {
                 break;
 
         }
+        sc.close();
     }
 }

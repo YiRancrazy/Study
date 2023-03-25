@@ -29,5 +29,6 @@ public class demo2 {
             System.out.println(x+","+y);
 
         }
+        sc.close();
     }
 }
